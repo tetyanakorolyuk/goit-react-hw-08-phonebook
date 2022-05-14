@@ -1,0 +1,26 @@
+.form {
+  margin-bottom: 35px;
+}
+
+.label {
+  font-weight: 500;
+}
+
+.input {
+  padding: 5px 10px;
+  margin: 0 10px;
+  border: none;
+  box-shadow: 0px 4px 2px rgba(248, 177, 177), 0px 1px 1px rgba(248, 177, 177),
+    0px 1px 3px rgba(248, 177, 177);
+  border-radius: 4px 4px 4px 4px;
+}
+
+.buttonAdd {
+  padding: 5px 15px;
+  cursor: pointer;
+  background-color: rgb(248, 177, 177);
+  border: none;
+  box-shadow: 0px 4px 2px rgba(0, 0, 0, 0.2), 0px 1px 1px rgba(0, 0, 0, 0.14),
+    0px 1px 3px rgba(0, 0, 0, 0.12);
+  border-radius: 4px 4px 4px 4px;
+}
