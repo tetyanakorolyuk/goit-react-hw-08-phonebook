@@ -52,6 +52,7 @@ export default function LoginView() {
           Email
           <input
             className={s.input}
+            required
             type="email"
             name="email"
             value={email}
@@ -63,6 +64,7 @@ export default function LoginView() {
           Password
           <input
             className={s.input}
+            required
             type="password"
             name="password"
             value={password}
